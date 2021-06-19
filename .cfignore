@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+settings.js.*
+app_deployment_new.yaml
